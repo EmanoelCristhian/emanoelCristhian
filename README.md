@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanoelcristhian&label=Profile%20views&color=0e75b6&style=flat" alt="emanoelcristhian" /> </p>
 
+![GitHub Org's stars](https://img.shields.io/github/stars/emanoelCristhian?style=social)
+
 - 🌱 Estou me especializando em **desenvolcimento Web Full-Stack**
 
 - 💬 Me pergunte sobre **React.js, node.js, JavaScript...**
