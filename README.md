@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Emanoel Cristhian</h1>
-<h3 align="center">Um apaixonado por desenvolvimento do Belém, Pará, Brasil.</h3>
+<h3 align="center">Um apaixonado por desenvolvimento de Belém, Pará, Brasil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanoelcristhian&label=Profile%20views&color=0e75b6&style=flat" alt="emanoelcristhian" /> </p>
 
