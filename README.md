@@ -5,7 +5,7 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/emanoelCristhian?style=social)
 
-- 🌱 Estou me especializando em **desenvolcimento Web Full-Stack**
+- 🌱 Sou um especialista em **desenvolvimento Web Full-Stack**
 
 - 💬 Me pergunte sobre **React.js, node.js, JavaScript...**
 
